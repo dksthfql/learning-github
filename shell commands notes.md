@@ -1,5 +1,5 @@
-#Lab4_shell commands notes
-####202331858 안솔비
+Lab4_shell commands notes
+202331858 안솔비
 
 LINUX
 1. 오픈 소스 유닉스와 유사한 OS (1991년 출시)
